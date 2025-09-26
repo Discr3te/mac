@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 cd ~
+mkdir ~/.config
 
 git clone https://github.com/Discr3te/.dotfiles.git
 
