@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+cd ~
 
 git clone https://github.com/Discr3te/.dotfiles.git
 
