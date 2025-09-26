@@ -36,4 +36,4 @@ defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool
 killall SystemUIServer
 
 # Wallpaper & Screensaver
-osascript -e 'tell application "System Events" to set picture of every desktop to "~/Pictures/Original/Wallpaper/panigale_v4r(mbp14).jpg"'
+osascript -e 'tell application "System Events" to set picture of every desktop to "~/Pictures/wallpaper/panigale_v4r_2(mbp14).jpg"'
