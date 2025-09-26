@@ -24,6 +24,7 @@ CASKS=(
     firefox
     yubico-authenticator
     karabiner-elements
+    font-jetbrains-mono-nerd-font
 )
 
 for pkg in "${FORMULAE[@]}"; do
